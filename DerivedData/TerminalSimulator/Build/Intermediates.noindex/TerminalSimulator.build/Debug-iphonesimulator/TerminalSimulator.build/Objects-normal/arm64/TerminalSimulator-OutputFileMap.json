@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalSimulator-master.dia",
+    "emit-module-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalSimulator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalSimulator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalSimulator-master.swiftdeps"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/App/AppDelegate.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/App/SceneDelegate.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/ModuleBuilder.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/ModuleBuilder~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/SimulatorModule/Model/Terminal.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/Terminal~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/SimulatorModule/Presenter/TerminalPresenter.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalPresenter~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/SimulatorModule/View/TerminalViewController.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/TerminalViewController~partial.swiftmodule"
+  },
+  "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/TerminalSimulator/Views/extensions/UITextView.swift" : {
+    "const-values" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.swiftconstvalues",
+    "dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.d",
+    "diagnostics" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.dia",
+    "index-unit-output-path" : "/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.o",
+    "llvm-bc" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.bc",
+    "object" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.o",
+    "swift-dependencies" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView.swiftdeps",
+    "swiftmodule" : "/Users/shredding/ALL MY/Programming/Swift/TerminalSimulator/DerivedData/TerminalSimulator/Build/Intermediates.noindex/TerminalSimulator.build/Debug-iphonesimulator/TerminalSimulator.build/Objects-normal/arm64/UITextView~partial.swiftmodule"
+  }
+}

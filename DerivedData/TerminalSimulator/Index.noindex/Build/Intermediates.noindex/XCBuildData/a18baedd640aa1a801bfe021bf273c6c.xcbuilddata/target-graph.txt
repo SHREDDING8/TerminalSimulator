@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'TerminalSimulator' in project 'TerminalSimulator' (no dependencies)
-Target 'TerminalSimulator' in project 'TerminalSimulator' (no dependencies)

@@ -9,25 +9,29 @@
 /* Begin PBXBuildFile section */
 		EE19DA3F2A5EFE8400A88C7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE19DA3E2A5EFE8400A88C7B /* AppDelegate.swift */; };
 		EE19DA412A5EFE8400A88C7B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE19DA402A5EFE8400A88C7B /* SceneDelegate.swift */; };
-		EE19DA432A5EFE8400A88C7B /* TerminalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE19DA422A5EFE8400A88C7B /* TerminalViewController.swift */; };
-		EE19DA462A5EFE8400A88C7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE19DA442A5EFE8400A88C7B /* Main.storyboard */; };
 		EE19DA482A5EFE8500A88C7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE19DA472A5EFE8500A88C7B /* Assets.xcassets */; };
 		EE19DA4B2A5EFE8500A88C7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE19DA492A5EFE8500A88C7B /* LaunchScreen.storyboard */; };
 		EE19DA572A5EFFB200A88C7B /* Terminal.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE19DA562A5EFFB200A88C7B /* Terminal.swift */; };
 		EE19DA5B2A5F0A1D00A88C7B /* UITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE19DA5A2A5F0A1D00A88C7B /* UITextView.swift */; };
+		EE1D82C52A7042DC005BCA29 /* ModuleBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1D82C42A7042DC005BCA29 /* ModuleBuilder.swift */; };
+		EE1D82CC2A706C11005BCA29 /* TerminalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1D82CA2A706C11005BCA29 /* TerminalViewController.swift */; };
+		EE1D82CD2A706C11005BCA29 /* TerminalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EE1D82CB2A706C11005BCA29 /* TerminalViewController.xib */; };
+		EE1D82CF2A706D76005BCA29 /* TerminalPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1D82CE2A706D76005BCA29 /* TerminalPresenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EE19DA3B2A5EFE8400A88C7B /* TerminalSimulator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TerminalSimulator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE19DA3E2A5EFE8400A88C7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE19DA402A5EFE8400A88C7B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		EE19DA422A5EFE8400A88C7B /* TerminalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerminalViewController.swift; sourceTree = "<group>"; };
-		EE19DA452A5EFE8400A88C7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EE19DA472A5EFE8500A88C7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE19DA4A2A5EFE8500A88C7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE19DA4C2A5EFE8500A88C7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE19DA562A5EFFB200A88C7B /* Terminal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Terminal.swift; sourceTree = "<group>"; };
 		EE19DA5A2A5F0A1D00A88C7B /* UITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextView.swift; sourceTree = "<group>"; };
+		EE1D82C42A7042DC005BCA29 /* ModuleBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleBuilder.swift; sourceTree = "<group>"; };
+		EE1D82CA2A706C11005BCA29 /* TerminalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerminalViewController.swift; sourceTree = "<group>"; };
+		EE1D82CB2A706C11005BCA29 /* TerminalViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TerminalViewController.xib; sourceTree = "<group>"; };
+		EE1D82CE2A706D76005BCA29 /* TerminalPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerminalPresenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,41 +64,23 @@
 		EE19DA3D2A5EFE8400A88C7B /* TerminalSimulator */ = {
 			isa = PBXGroup;
 			children = (
-				EE19DA542A5EFF5200A88C7B /* Controller */,
-				EE19DA532A5EFF4E00A88C7B /* View */,
-				EE19DA522A5EFF4800A88C7B /* Model */,
-				EE19DA3E2A5EFE8400A88C7B /* AppDelegate.swift */,
-				EE19DA402A5EFE8400A88C7B /* SceneDelegate.swift */,
+				EE1D82C02A704269005BCA29 /* SimulatorModule */,
+				EE1D82BF2A704234005BCA29 /* App */,
+				EE19DA532A5EFF4E00A88C7B /* Views */,
 				EE19DA4C2A5EFE8500A88C7B /* Info.plist */,
+				EE1D82C42A7042DC005BCA29 /* ModuleBuilder.swift */,
 			);
 			path = TerminalSimulator;
 			sourceTree = "<group>";
 		};
-		EE19DA522A5EFF4800A88C7B /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				EE19DA562A5EFFB200A88C7B /* Terminal.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		EE19DA532A5EFF4E00A88C7B /* View */ = {
+		EE19DA532A5EFF4E00A88C7B /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				EE19DA592A5F0A0700A88C7B /* extensions */,
-				EE19DA442A5EFE8400A88C7B /* Main.storyboard */,
 				EE19DA492A5EFE8500A88C7B /* LaunchScreen.storyboard */,
 				EE19DA472A5EFE8500A88C7B /* Assets.xcassets */,
 			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		EE19DA542A5EFF5200A88C7B /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				EE19DA422A5EFE8400A88C7B /* TerminalViewController.swift */,
-			);
-			path = Controller;
+			path = Views;
 			sourceTree = "<group>";
 		};
 		EE19DA592A5F0A0700A88C7B /* extensions */ = {
@@ -103,6 +89,50 @@
 				EE19DA5A2A5F0A1D00A88C7B /* UITextView.swift */,
 			);
 			path = extensions;
+			sourceTree = "<group>";
+		};
+		EE1D82BF2A704234005BCA29 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				EE19DA3E2A5EFE8400A88C7B /* AppDelegate.swift */,
+				EE19DA402A5EFE8400A88C7B /* SceneDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		EE1D82C02A704269005BCA29 /* SimulatorModule */ = {
+			isa = PBXGroup;
+			children = (
+				EE1D82C32A7042AA005BCA29 /* Presenter */,
+				EE1D82C22A7042A0005BCA29 /* View */,
+				EE1D82C12A704299005BCA29 /* Model */,
+			);
+			path = SimulatorModule;
+			sourceTree = "<group>";
+		};
+		EE1D82C12A704299005BCA29 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EE19DA562A5EFFB200A88C7B /* Terminal.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EE1D82C22A7042A0005BCA29 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EE1D82CA2A706C11005BCA29 /* TerminalViewController.swift */,
+				EE1D82CB2A706C11005BCA29 /* TerminalViewController.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EE1D82C32A7042AA005BCA29 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				EE1D82CE2A706D76005BCA29 /* TerminalPresenter.swift */,
+			);
+			path = Presenter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,7 +195,7 @@
 			files = (
 				EE19DA4B2A5EFE8500A88C7B /* LaunchScreen.storyboard in Resources */,
 				EE19DA482A5EFE8500A88C7B /* Assets.xcassets in Resources */,
-				EE19DA462A5EFE8400A88C7B /* Main.storyboard in Resources */,
+				EE1D82CD2A706C11005BCA29 /* TerminalViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,25 +206,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE19DA432A5EFE8400A88C7B /* TerminalViewController.swift in Sources */,
 				EE19DA572A5EFFB200A88C7B /* Terminal.swift in Sources */,
 				EE19DA3F2A5EFE8400A88C7B /* AppDelegate.swift in Sources */,
+				EE1D82CC2A706C11005BCA29 /* TerminalViewController.swift in Sources */,
 				EE19DA412A5EFE8400A88C7B /* SceneDelegate.swift in Sources */,
 				EE19DA5B2A5F0A1D00A88C7B /* UITextView.swift in Sources */,
+				EE1D82CF2A706D76005BCA29 /* TerminalPresenter.swift in Sources */,
+				EE1D82C52A7042DC005BCA29 /* ModuleBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		EE19DA442A5EFE8400A88C7B /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EE19DA452A5EFE8400A88C7B /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		EE19DA492A5EFE8500A88C7B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -337,7 +361,6 @@
 				INFOPLIST_FILE = TerminalSimulator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -365,7 +388,6 @@
 				INFOPLIST_FILE = TerminalSimulator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

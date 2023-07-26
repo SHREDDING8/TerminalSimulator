@@ -90,43 +90,7 @@ extension TerminalViewController:UITextViewDelegate{
     
     func textViewDidChange(_ textView: UITextView) {
         
-        if presenter.terminal.allText.count > self.textView.text.count{
-            if presenter.terminal.currentUserText == ""{
-                self.textView.text = presenter.terminal.allText
-            }
-        }else{
-            presenter.terminal.currentUserText = self.textView.text.replacingOccurrences(of:  presenter.terminal.allText, with: "")
-            
-            
-            if presenter.terminal.currentUserText == self.textView.text{
-                self.textView.text = presenter.terminal.allText
-                presenter.terminal.currentUserText = ""
-                return
-            }
-            
-            
-            if presenter.terminal.currentUserText.hasSuffix("\n"){
-                presenter.terminal.currentUserText = presenter.terminal.currentUserText.replacingOccurrences(of: "\n", with: "")
-                let response = presenter.terminal.getCommand()
-                if !response.isEmpty{
-                    if response == "CLEAR"{
-                        self.textView.text = ""
-                    }else{
-                        self.textView.text += response + "\n"
-                    }
-                    
-                    if presenter.terminal.terminalState == .backgroundColor ||
-                        presenter.terminal.terminalState == .textColor {
-                        self.present(self.colorPicker, animated: true)
-                    }
-                }
-                self.textView.text += presenter.terminal.startRawText
-                presenter.terminal.allText = self.textView.text
-                presenter.terminal.currentUserText = ""
-            }
-            
-            
-        }
+        presenter.textViewDidChange(text: textView.text)
         
     }
     
@@ -178,5 +142,18 @@ extension TerminalViewController:TerminalViewProtocol{
         
     }
     
+    func setTextViewText(text: String) {
+        self.textView.text = text
+        presenter.updateFullText(text: self.textView.text)
+    }
     
+    func appendTextViewText(text: String) {
+        self.textView.text += text
+        presenter.updateFullText(text: self.textView.text)
+    }
+    
+    func showColorPicker() {
+        self.present(self.colorPicker, animated: true)
+    }
+        
 }
